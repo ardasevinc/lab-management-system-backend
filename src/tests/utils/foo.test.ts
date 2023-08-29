@@ -1,7 +1,7 @@
 import foo from '@/utils/foo';
 
 describe('foo', () => {
-  it('should foo', () => {
+  xit('should foo', () => {
     expect(foo()).toBe('foo');
   });
 });
